@@ -1,0 +1,1 @@
+DYLD_INSERT_LIBRARIES=./lib.dylib ./prog

@@ -1,0 +1,3 @@
+ldb prog
+settings set target.env-vars DYLD_INSERT_LIBRARIES=./lib.dylib
+run
